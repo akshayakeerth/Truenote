@@ -1,0 +1,2 @@
+[server]
+useLegacyInstaller = true
